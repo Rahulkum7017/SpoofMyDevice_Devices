@@ -1,3 +1,5 @@
+**Special Thanks to https://github.com/BuSung-dev**
+
 # SpoofMyDevice Devices
 
 Community-maintained device preset files for `SpoofMyDevice`.
